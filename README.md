@@ -10,6 +10,7 @@ Projeto criado com o objetivo de colocar em práticas os conhecimentos adquirido
     - Cores
     - Realição de Parallax
     - Carrossel 
+    - NavBar
     - Entre outros.
 
 ![Spotify](imagens/spotify.gif)
