@@ -9,6 +9,8 @@ Projeto criado com o objetivo de colocar em práticas os conhecimentos adquirido
     - Formatação de textos
     - Cores
     - Realição de Parallax
+    - Carrossel 
+    - Entre outros.
 
 ![Spotify](imagens/spotify.gif)
 
